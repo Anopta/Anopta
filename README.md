@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Anopta
-- 👀 I’m interested in python and frontend frameworks
+- 👀 I’m interested in Python (First language) and Javascript (Second language)
 - 🌱 I’m currently working on django and react
-- 💞️ I’m looking to collaborate on django projects
+- 💞️ I’m looking to collaborate on both django and nodejs projects
 - 📫 How to reach me: annorpeter0@gmail.com
 
 <!---
